@@ -3,3 +3,18 @@
 </nav>
   
 <h3>Segundo dia de códigos na Estação Hack </h3>
+
+**Links legais:**
+
+- Site com animações 3D em JS -> [Three JS](https://threejs.org/ )
+- Web Developer roadmap -> [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/images/frontend.png?fix=531)
+
+**Dicas:**
+
+- Quebra de texto: `alt + z`
+- Copiar varias linhas de código: `alt + shift + setinha para cima`
+- Colocar linhas de cógidos em outros lugares: `alt + setinha`
+
+**Git:**
+
+- Arrumar mensagens do commit -> `git amend` _edita a mensagem e fecha ESC e :x_
