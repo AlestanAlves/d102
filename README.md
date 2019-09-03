@@ -11,4 +11,4 @@
 
 **Git:**
 
-- Arrumar mensagens do commit -> `git amend`
+- Arrumar mensagens do commit -> `git amend` _edita a mensagem e fecha_
