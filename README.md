@@ -6,5 +6,5 @@
 
 **Links legais:**
 
-- Site com animações 3D em JS [Three JS](https://threejs.org/ )
+- Site com animações 3D em JS -> [Three JS](https://threejs.org/ )
 
