@@ -1,13 +1,27 @@
 a:hover{
     font-size: 14pt;
 }
+
+a{
+    color: white;
+}
 body{
     margin:0;
     font-family: 'Permanent Marker', cursive;
 }
+header{
+    background-image: url("../images/6402.jpg");
+    height: 400px;
+    background-position: center;
+}
+h1{
+    margin: 0;
+    color: white;
+    text-align: center;
+}
 nav{
-    align-content: center;
-    background-color: rgb(245, 182, 66);
+    align-items: center;
+    background-color: black;
     height: 50px;
     display: flex;
     justify-content: space-around;
