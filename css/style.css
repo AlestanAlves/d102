@@ -1,0 +1,15 @@
+a:hover{
+    font-size: 14pt;
+}
+body{
+    margin:0;
+    font-family: 'Permanent Marker', cursive;
+}
+nav{
+    align-content: center;
+    background-color: rgb(245, 182, 66);
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
