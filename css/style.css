@@ -17,7 +17,30 @@ header{
 h1{
     margin: 0;
     color: white;
+    text-align: left;
+    padding: 110px;
+
+}
+
+section{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
+}
+
+section img:nth-child(1):hover{
+    height: 100%;
+}
+
+p{
+    padding: 0 500px;
+    
+}
+
+img{
+    height: 400px;
 }
 nav{
     align-items: center;
